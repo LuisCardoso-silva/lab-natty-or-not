@@ -7,7 +7,7 @@
 Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este vídeo curto no formato reels, trás o Tony Stark explicando sobre o porque de ele utilizar ouro como um dos materiais que compõem a armadura.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa [ChatGPT](https://chatgpt.com/) para roteirização e revisão;
