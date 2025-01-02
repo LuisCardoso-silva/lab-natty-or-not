@@ -17,7 +17,8 @@ Este vídeo curto no formato reels, trás o Tony Stark explicando sobre o porque
 Pesquisei algumas imagens para utilizar como avatar, algumas inclusives geradas por IA's, mesmo assim o "D-ID" não aceitava pois reconhecia a imagem como sendo a de uma pessoa famosa, então acabei utilizando uma imagem de uma versão animada do Tony stark, o que funcionou para o propósito, então utilizei o "Chat-GPT" para criar um texto para o avatr falar, então o animeir no "D-ID". O vídeo contem a marca d'água do site pois utilizei a versão gratuita.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+No víde podemos ter a explicação para a curiosidade abordada:
+[LINK PARA O VÍDEO AQUI](https://github.com/LuisCardoso-silva/lab-natty-or-not/blob/main/Tony%20falando%20em%20pt-br.mp4)
 
 ## 💭 Reflexão (Opcional)
 Foi uma ótima primeira experiência, pretendo explorar e utilizar ainda mais tanto essas quanto outras ferramentas de IA que possam me ajudar a executar mais das minhas atividades rotineiras, como também gerar conteúdo.
